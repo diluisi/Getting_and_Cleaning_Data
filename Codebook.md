@@ -4,8 +4,15 @@ Data source webpage: </url>http://archive.ics.uci.edu/ml/datasets/Human+Activity
 
 Data for the project: </url> https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</url>
 
+Steps:
+- Merges the training and the test sets to create one data set.
+- Extracts only the measurements on the mean and standard deviation for each measurement. 
+- Uses descriptive activity names to name the activities in the data set
+- Appropriately labels the data set with descriptive activity names. 
+- Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+- These signals were used to estimate variables of the feature vector for each pattern:  
 
-These signals were used to estimate variables of the feature vector for each pattern:  
+
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 * tBodyAcc-XYZ
