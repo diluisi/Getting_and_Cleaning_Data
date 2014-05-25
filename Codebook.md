@@ -17,9 +17,11 @@ Step-by-step:
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 
+ * Read _features.txt_ and select only columns with mean and standard deviation
 
 3. Uses descriptive activity names to name the activities in the data set
 
+ * 
 
 4. Appropriately labels the data set with descriptive activity names. 
 
