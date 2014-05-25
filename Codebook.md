@@ -21,11 +21,12 @@ Step-by-step:
 
 3. Uses descriptive activity names to name the activities in the data set
 
- * 
+ * Read _activity_labels.txt_ and convert number activity to string.
 
 4. Appropriately labels the data set with descriptive activity names. 
 
-
+ * Combine all data sets (_jData_, _jHeader_ and jSubject_) and create one data set merged (_merged.txt_).
+ 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 
