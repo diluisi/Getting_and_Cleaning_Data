@@ -11,7 +11,7 @@ Step-by-step:
 
 1. Merges the training and the test sets to create one data set.
 
-  * Read all data from directory (X_train.txt, y_train.txt, subject_train.txt, X_test.txt, y_test.txt and subject_test.txt) and create new variables to store them (trainData, trainHeader, trainSubject, testData, testHeader, testSubject).
+  * Read all data from directory (_X_train.txt_, _y_train.txt_, _subject_train.txt_, _X_test.txt_, _y_test.txt_ and _subject_test.txt_) and create new variables to store them (_trainData_, _trainHeader_, _trainSubject_, _testData_, _testHeader_, _testSubject_).
   * Combine each dataset (train data with test data, trai header with test header, train subject with test subject) in order to create only one with train and test data. Each joined dataset is stored on _jData_,_jHeader_ and _jSubject_.
   * The merged data will be generated at the 4th step.
 
