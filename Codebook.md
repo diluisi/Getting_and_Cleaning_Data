@@ -12,7 +12,7 @@ Step-by-step:
 1. Merges the training and the test sets to create one data set.
 
   * Read all data from directory (X_train.txt, y_train.txt, subject_train.txt, X_test.txt, y_test.txt and subject_test.txt) and create new variables to store them (trainData, trainHeader, trainSubject, testData, testHeader, testSubject).
-  * Combine each dataset (train data with test data, trai header with test header, train subject with test subject) in order to create only one with train and test data.
+  * Combine each dataset (train data with test data, trai header with test header, train subject with test subject) in order to create only one with train and test data. Each joined dataset is stored on _jData_,_jHeader_ and _jSubject_.
   * The merged data will be generated at the 4th step.
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
