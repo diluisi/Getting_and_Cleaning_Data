@@ -1,5 +1,4 @@
 This Codebook describes the variables, the data, and any transformations or work that you performed to clean up the data. 
-=========================================================================================================================
 
 Data source: </url>http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones</url> 
 
