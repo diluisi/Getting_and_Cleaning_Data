@@ -29,5 +29,5 @@ Step-by-step:
  
 5-Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-
+ * Create a second dataset from merged data. For each subject a loop was created  in order to read and calculate mean for each activity. The result is a dataset with 180 rows and 68 columns.
 
